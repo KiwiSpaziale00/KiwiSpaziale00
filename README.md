@@ -3,13 +3,6 @@
 
 <a href="https://github.com/KiwiSpaziale00" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/kevincapoferri" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-
-
 
 ### My name is Kevin, please take a seat ☕  
 I am a computer science student and novice full-stack developer in [4D](https://us.4d.com/), but my skills extend to the most popular languages and continue to grow.
